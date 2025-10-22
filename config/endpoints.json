@@ -1,0 +1,10 @@
+{
+    "race": "https://api.jolpi.ca/ergast/f1/2003/races",
+    "constructor": "https://api.jolpi.ca/ergast/f1/2003/constructors",
+    "driver": "https://api.jolpi.ca/ergast/f1/2003/drivers",
+    "result": "https://api.jolpi.ca/ergast/f1/2003/results",
+    "qualifying": "https://api.jolpi.ca/ergast/f1/2003/qualifying",
+    "pitstop": "https://api.jolpi.ca/ergast/f1/2003/1/pitstops",
+    "lap": "https://api.jolpi.ca/ergast/f1/2003/1/laps",
+    "status": "https://api.jolpi.ca/ergast/f1/status"
+}
